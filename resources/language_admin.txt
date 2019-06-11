@@ -1,0 +1,3 @@
+Variable	English	Chinese	Malay
+mobile	Mobile		
+login	Login		
